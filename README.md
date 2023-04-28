@@ -1,3 +1,3 @@
-# BC-in-acutely-ill-patients
+# EEG brain functional connectivity estimation in seizure forecasting for acutely ill patients
 
-Code for "EEG brain functional connectivity estimation in seizure forecasting for acutely ill patients"
+Code to compute brain connectivity indicators from interictal EEG of acutely ill patients.
